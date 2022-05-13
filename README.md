@@ -1,3 +1,5 @@
+![logo-icon](https://user-images.githubusercontent.com/67467178/168348203-614e400b-ba7d-4426-b124-49dba606d2eb.png)**SKILL**
+
 ## Project Title 
 SKILL eLearning
 
@@ -38,23 +40,34 @@ For tutors, it is a great source of earning, wherein they can teach from anywher
 **Service:** Azure Web app
 
 
-
-
 ## Web technologies used
 
  HTML, CSS, JS, Bootstrap
 
 
+
 ## Screenshots
+ 
+ HOME
  
  <img width="959" alt="Screenshot 2022-05-13 201602" src="https://user-images.githubusercontent.com/67467178/168315167-b47a3611-4328-4c56-82c6-cb4f7adc0157.png">
 
+ABOUT
+
+
 <img width="953" alt="Screenshot 2022-05-13 201922" src="https://user-images.githubusercontent.com/67467178/168315432-01e38efa-3338-4c1f-8a62-16c1e15e3575.png">
+
+SERVICE
+
 
 <img width="955" alt="Screenshot 2022-05-13 202115" src="https://user-images.githubusercontent.com/67467178/168315464-10f0ecfe-8a06-470c-baf8-afc32a079a71.png">
 
-<img width="951" alt="Screenshot 2022-05-13 202154" src="https://user-images.githubusercontent.com/67467178/168315532-d960dfb2-eaac-42ad-bfbd-d4cd799c6fbb.png">
+CONTACT
 
+
+<img width="951" alt="Screenshot 2022-05-13 202154" src="https://user-images.githubusercontent.com/67467178/168315532-d960dfb2-eaac-42ad-bfbd-d4cd799c6fbb.png">
 <img width="956" alt="Screenshot 2022-05-13 201839" src="https://user-images.githubusercontent.com/67467178/168315566-2d01f321-73bf-4f84-a369-521e63290710.png">
 
 
+
+# PROJECT LINK : https://yellow-forest-0c6064210.1.azurestaticapps.net
